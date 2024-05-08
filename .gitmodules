@@ -1,0 +1,3 @@
+[submodule "Stock-Market-App"]
+	path = Stock-Market-App
+	url = https://github.com/JainamHemani/Stock-Market-App.git
